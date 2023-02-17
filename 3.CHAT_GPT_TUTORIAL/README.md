@@ -1,7 +1,9 @@
 # 3.4 Prompt
 ```
-한글 : 철수와 영희가 주인공인 로맨스 소설의 도입부를 써줘
-영어 : Please write the beginning of the romance novel in which Cheolsu and Younghee are the main characters.
+한글 :  
+철수와 영희가 주인공인 로맨스 소설의 도입부를 써줘
+영어 :  
+Please write the beginning of the romance novel in which Cheolsu and Younghee are the main characters.
 ```
 ```
 한글 :
