@@ -5,3 +5,13 @@
 진짜 실무에서 사용하는 ChatGPT 사용법들을 꾹꾹 눌러담았습니다.
 
 ![chatgpt책](https://user-images.githubusercontent.com/73151616/224000639-16df8bf7-a4ea-443f-abe7-43a5fd506f2e.jpg)
+
+문의사항 (Inquiries)
+궁금한 사항이 있으면 이슈 또는 이메일 부탁드립니다.
+
+**이슈를 확인하기 전에 Wiki에 도큐먼트 먼저 보시고 이슈에 글을 남겨주세요!
+
+저자 (Authors)
+김준성 / (wnstlddl@gmail.com)
+유원준 / (ukairia777@gmail.com)
+안상준 / (dailybugle@naver.com)
