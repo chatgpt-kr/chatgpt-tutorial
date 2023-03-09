@@ -12,6 +12,6 @@
 
 저자 (Authors)
 ---
-김준성 / (wnstlddl@gmail.com)
-유원준 / (ukairia777@gmail.com)
+김준성 / (wnstlddl@gmail.com)  
+유원준 / (ukairia777@gmail.com)  
 안상준 / (dailybugle@naver.com)
