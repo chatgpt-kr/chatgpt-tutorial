@@ -1,4 +1,4 @@
-**4장, 9장의 구글스프레드시트와 엑셀 파일 다운로드** : [Download](https://drive.google.com/file/d/1OPJJF_hL-ESLzHWe5y-t5Ywh4B663MBe/view?usp=sharing)
+**4장, 9장의 구글스프레드시트와 엑셀 파일 다운로드** : [Download](https://github.com/wikibook/chatgpt-recipes/archive/refs/heads/main.zip)
 
 # ChatGPT Tutorial
 `진짜 챗GPT 활용법` 교재의 깃허브입니다.  
