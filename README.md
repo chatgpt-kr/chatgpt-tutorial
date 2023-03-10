@@ -1,3 +1,5 @@
+4장, 9장의 구글스프레드시트와 엑셀 파일 다운로드하기 : [Download](https://drive.google.com/file/d/1OPJJF_hL-ESLzHWe5y-t5Ywh4B663MBe/view?usp=sharing)
+
 # ChatGPT Tutorial
 `진짜 챗GPT 활용법` 교재의 깃허브입니다.  
 엑셀 활용법부터 블로그 자동화, 유튜브 콘텐츠 생성, 미드저니와 ChatGPT API 사용법까지  
