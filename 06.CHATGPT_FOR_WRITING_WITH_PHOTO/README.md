@@ -1,21 +1,18 @@
-# 6. ChatGPT for Writing with Photo
+# 6. 사진을 이용해 글을 써주는 글 작가 ChatGPT
 
-Prompt
 ```
 너한테 사진을 주면 사진에 대한 글을 쓸 수 있니?
 ```
-Prompt
 ```
 그럼 너한테 사진을 입력하는 방법은?
 ```
-## 6.1
+## Imagga를 활용한 사진 키워드 추출
 Imagga 사이트 주소
 ```
 https://imagga.com/
 ```
-## 6.2
-### 6.2.1
-Prompt
+## 사진의 키워드를 활용해 시를 쓰는 ChatGPT
+### 사진에서 추출한 키워드를 활용해 시 작성하기
 ```
 I will provide keywords with probability.
 
@@ -40,8 +37,7 @@ outdoor 21.43%
 active 20.70%
 
 ```
-### 6.2.2
-Prompt
+### 분위기 변경하여 작성하기
 ```
 I will provide probability with keywords.
 
@@ -69,9 +65,6 @@ outdoor 21.43%
 active 20.70%
 
 ```
-
-### 6.2.2
-Prompt
 ```
 I will provide probability with keywords.
 
@@ -99,8 +92,7 @@ outdoor 21.43%
 active 20.70%
 
 ```
-### 6.2.3
-Prompt
+### 타깃 독자를 지정해서 작성하기
 ```
 I will provide probability with keywords.
 
@@ -128,9 +120,8 @@ outdoor 21.43%
 active 20.70%
 
 ```
-## 6.3
-### 6.3.1
-Prompt
+## 소설을 쓰는 ChatGPT
+### 사진에서 추출한 키워드를 활용해 소설 쓰기
 ```
 I'll give you keywords with probabilities.
 
@@ -163,8 +154,7 @@ active 20.70%
 
 ```
 
-### 6.3.2
-Prompt
+### 장르 변경하여 작성하기
 ```
 I'll give you keywords with probabilities.
 
@@ -198,8 +188,7 @@ active 20.70%
 
 ```
 
-### 6.3.3
-Prompt
+### 시대적 배경을 변경하여 작성하기
 ```
 I'll give you keywords with probabilities.
 
